@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## A GAME BY 3AGOUNOS
 
-You can use the [editor on GitHub](https://github.com/bigR94/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You download the [GAME](https://github.com/bigR94/website/edit/master/index.md) and play with friends!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
